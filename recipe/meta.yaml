@@ -29,7 +29,6 @@ requirements:
     - bowerstatic >=0.8
 
 test:
-  # Python imports
   imports:
     - more
     - more.static
